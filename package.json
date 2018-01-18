@@ -1,0 +1,11 @@
+{
+  "name": "stringr",
+  "version": "1.0.0",
+  "description": "Simple string formatter",
+  "main": "stringr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus Lindwall",
+  "license": "ISC"
+}
